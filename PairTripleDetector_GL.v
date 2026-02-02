@@ -27,6 +27,4 @@ module PairTripleDetector_GL
   or(out, y, x);
 
 endmodule
-
 `endif /* PAIR_TRIPLE_DETECTOR_GL_V */
-
